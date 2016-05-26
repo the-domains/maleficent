@@ -2,6 +2,7 @@ name: maleficent
 favicon: null
 layout_spectrum: 0.8335422505624592
 typography_spectrum: 0.867184336297214
+title: null
 cta:
   domain: null
   bucket: null
