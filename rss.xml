@@ -4,8 +4,15 @@
         <description><![CDATA[M]]></description>
         <link>https://thegrid.ai/maleficent/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 22:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 20:50:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maleficent/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>FABRIC.</p>]]></description>
+            <link>https://thegrid.ai/maleficent/fabric/index.html</link>
+            <guid isPermaLink="false">740935bf-2414-42dc-9400-587b47b1239c</guid>
+            <pubDate>Sun, 05 Jun 2016 20:50:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bfaaa24-8bae-4c7d-9896-d14af3126067.jpg">]]></description>
