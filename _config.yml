@@ -1,4 +1,4 @@
-name: maleficent
+name: M
 favicon: null
 layout_spectrum: 0.8335422505624592
 typography_spectrum: 0.867184336297214
@@ -22,7 +22,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.34483327833004296
+  brandStrength: 0.4375
   lightness: 0.3091980153694749
   saturation: 0.7697132837492973
   rhythmicContrast: 0.7597774779424071
